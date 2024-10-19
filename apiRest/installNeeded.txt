@@ -1,0 +1,5 @@
+pip install python-Levenshtein
+pip install gensim
+pip install spacy
+pip install nltk
+python -m spacy download "pt_core_news_lg"
