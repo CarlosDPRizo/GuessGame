@@ -1,0 +1,4 @@
+*.html linguist-language=HTML
+*.py linguist-detectable=true
+*.html linguist-vendored
+*.css linguist-vendored
